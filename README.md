@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=INITIALIZING%20SHAHID_S.EXE%20...%20ACCESS%20GRANTED&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=Good+morning%2C+Sir.+Systems+are+fully+operational.;Booting+Full-Stack+%2B+Data+Analytics+Suit...;All+diagnostics+green.+Ready+when+you+are.;Welcome+to+the+Shahid+S+Mainframe." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=Hello%2C+Sir.+Systems+are+fully+operational.;Booting+Full-Stack+%2B+Data+Analytics+Suit...;All+diagnostics+green.+Ready+when+you+are.;Welcome+to+the+Shahid+S+Mainframe." alt="Typing SVG" />
 </a>
 
 </div>
