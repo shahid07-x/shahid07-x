@@ -168,7 +168,7 @@ St. Claret College, 2024 — recognized for research communication and technical
 
 | Milestone | Institution | Year | Score |
 |---|---|---|---|
-| 🎓 B.Sc. Computer Science | St. Claret College | Expected Aug 2026 | — |
+| 🎓 B.Sc. Computer Science | St. Claret College | Graduated | 8.11 CGPA |
 | 📘 CBSE (Class XII) | St. Claret PU College | 2023 | 82% |
 | 📗 ICSE (Class X) | St. Philomena's School | 2021 | 85% |
 
